@@ -1,0 +1,40 @@
+# 每篇论文一份配置。未确认的字段留空；这是项目输入模板，不是期刊统一标准。
+paper:
+  title: ""
+  type: "中文期刊研究论文"
+  field: "drilling" # drilling | field_development | both
+  subtopic: "" # 如井壁稳定、钻井液、井筒压力、注水开发、提高采收率
+  research_question: ""
+  target_journal: ""
+  target_section: ""
+  stage: "outline" # topic | outline | drafting | revision | submission_check
+  language: "zh-CN"
+
+journal_requirements:
+  guide_url: ""
+  guide_checked_date: ""
+  template_path: ""
+  citation_style: "" # 按目标期刊确认
+  abstract_requirements: ""
+  figure_table_requirements: ""
+
+research:
+  object_and_scope: ""
+  method: ""
+  data_sources: []
+  key_parameters_and_units: []
+  comparison_baseline: ""
+  assumptions: []
+  known_limitations: []
+  claims_to_support: []
+
+materials:
+  draft_path: ""
+  references_path: ""
+  data_path: ""
+  terminology_path: ""
+
+preferences:
+  output_format: "markdown" # markdown | docx（需具备相应文档工具）
+  missing_evidence: "标出待补证据，不生成假设数据"
+  review_depth: "standard" # light | standard | detailed

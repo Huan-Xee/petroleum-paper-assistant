@@ -1,0 +1,4 @@
+interface:
+  display_name: "石油中文期刊论文助手"
+  short_description: "面向钻井与油气田开发，辅助中文期刊论文提纲、证据核验、修改及格式审查"
+  default_prompt: "使用 $petroleum-paper-assistant，根据我的研究材料和目标期刊要求，辅助撰写或审查钻井、油气田开发方向的中文论文。"
