@@ -25,6 +25,8 @@ description: "Assist with planning, drafting, revising, and checking Chinese-lan
 
 按论文实际涉及的内容选择检查项，避免把清单中的每项都变成所有论文的要求。详细检查框架见 [references/technical-review.md](references/technical-review.md)。重点检查参数定义、单位与基准、对照条件、数据来源、方法可复现性、结果解释和结论适用边界。对“提高、降低、显著、优化、首次”等结论，要求有可比基准与足够证据；资料不支持时建议缩小措辞。
 
+钻井岩屑输运、井眼清洁、携岩和瞬态模拟论文，按研究类型路由到 [references/drilling-paper-patterns.md](references/drilling-paper-patterns.md)，选择机理模型、实验相关式、瞬态数值模型、物理因素扩展或现场案例的论证路径。借鉴其中的“主张—证据—机理—边界”组织方式，不强行套用固定章节，也不把样例论文中的模型假设当成普适事实。
+
 ## 文献与数据完整性
 
 文献引用须能回溯到真实来源，并支持对应句子的具体主张。联网检索时优先使用期刊官网、出版商、DOI 注册页、学术数据库或标准正式发布页；按需记录题名、作者、刊名、年份、卷期页码、DOI/稳定链接和核验状态。区分“已核对题录”“只核对摘要”“已读全文”；未读全文不得描述成全文结论。详细规则见 [references/source-and-citation.md](references/source-and-citation.md)。
@@ -40,6 +42,7 @@ description: "Assist with planning, drafting, revising, and checking Chinese-lan
 ## 参考资源路由
 
 - 钻井、完井或油气田开发论文的技术论证审查：读取 `references/technical-review.md`。
+- 钻井岩屑输运/井眼清洁论文的结构、段落和论点组织：读取 `references/drilling-paper-patterns.md`。
 - 文献检索、引用和证据追踪：读取 `references/source-and-citation.md`。
 - 投稿前完整检查：读取 `references/submission-checklist.md`。
 - 用户指定《石油勘探与开发》且需要其格式核查：读取 `references/journal-format-profile.md`，随后仍需确认官网是否有更新。
